@@ -1,3 +1,4 @@
 # Oswald
 
-Test
+My personal OS project
+
