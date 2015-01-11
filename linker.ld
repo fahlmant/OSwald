@@ -1,4 +1,4 @@
-ignated as the entry point. */
+/* ignated as the entry point. */
 ENTRY(_start)
 
 /* Tell where the various sections of the object files will be put in the final
