@@ -1,4 +1,4 @@
-# Oswald
+# OSwald
 
 My personal OS project
 
